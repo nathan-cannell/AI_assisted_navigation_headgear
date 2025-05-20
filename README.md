@@ -6,6 +6,8 @@
 ## Overview
 
 This project presents a wearable assistive device designed to enhance navigation and environmental awareness for visually impaired users. Integrating real-time navigation and computer vision, the device provides spoken guidance and object detection through local processing, supporting independent and safe mobility in both indoor and outdoor environments.
+### Watch the Demo!
+A video of the device working in action is at media/project_demo.mp4
 
 ---
 
